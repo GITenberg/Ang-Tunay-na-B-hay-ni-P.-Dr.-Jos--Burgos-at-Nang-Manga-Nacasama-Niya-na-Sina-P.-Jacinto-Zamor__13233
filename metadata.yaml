@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '6840'
     url: http://www.gutenberg.org/2009/agents/6840
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13233#Ang-Tunay-na-B-hay-ni-P.-Dr.-Jos--Burgos-at-Nang-Manga-Nacasama-Niya-na-Sina-P.-Jacinto-Zamor_
 gutenberg_issued: '2004-08-20'
 gutenberg_type: Text
 identifiers:
